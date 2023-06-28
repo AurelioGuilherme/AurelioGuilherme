@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Aurélio Guilherme</h1>
 <h3 align="center">Analista de dados / Cientista de dados em transição de carreira</h3>
 
-- 🔭 Atualmente estou trabalhando em projetos de ciência de dados de: **Recomendação em aplicativos de autoatendimento e Serie temporal em Horímetro de frota de Veiculos industriais.**
+- 🔭 Atualmente estou trabalhando em projetos de ciência de dados de: **Recomendação em aplicativos de autoatendimento e Serie temporais em Horímetros de frota de Veiculos industriais.**
 
 - 🌱 Atualmente estou aprendendo **Deep Learning com PyTorch, Power BI e AWS.**
 
