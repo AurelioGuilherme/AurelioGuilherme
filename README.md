@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Aurélio Guilherme</h1>
 <h3 align="center">Cientista de dados em transição de carreira</h3>
 
-- 🔭 Atualmente estou trabalhando em projeto chamado Aprenda Pytorch - [Canal no Youtube](https://www.youtube.com/@AprendaPyTorch). 
+- 🔭 Atualmente estou trabalhando em um projeto chamado Aprenda Pytorch - [Canal no Youtube](https://www.youtube.com/@AprendaPyTorch). 
 
 - 🌱 Atualmente estou aprendendo **A linguagem  C++ com foco em Deep Learning**
 
