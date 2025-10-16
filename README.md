@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Aurélio Guilherme</h1>
-<h3 align="center">Cientista de dados em transição de carreira</h3>
+<h3 align="center">AI Engineer and Data Scientist/h3>
 
 - 🔭 Atualmente estou trabalhando em um projeto chamado Aprenda Pytorch - [Canal no Youtube](https://www.youtube.com/@AprendaPyTorch). 
 
